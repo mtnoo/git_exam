@@ -1,3 +1,4 @@
 # git_exam
 # these are the changes
+set.seed(123)
 install.package("tidyverse")
