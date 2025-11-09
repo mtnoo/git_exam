@@ -1,3 +1,5 @@
 # git_exam
 # these are the changes
+set.seed(123)
+nvinvoiev
 install.package("tidyverse")
